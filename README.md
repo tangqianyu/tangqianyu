@@ -4,7 +4,7 @@
 
 Hey there! :smile: My name is Quentin Tang. I am a full stack engineer and I am currently looking for a job in Web3!
 
-## Technologies I'm Learning :books:
+## Technologies :books:
 
 #### Software:
 
