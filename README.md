@@ -56,4 +56,4 @@ Hey there! :smile: My name is Quentin Tang. I am a full stack engineer and I am 
 
 <hr/>
 
-:star: From [@BrennanBrown](https://github.com/brennanbrown)
+:star: From [@Tangqianyu](https://github.com/tangqianyu)
