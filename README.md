@@ -10,8 +10,7 @@ Hey there! :smile: My name is Quentin Tang. I am a full stack engineer and I am 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black)
+
 
 #### Front-end:
 
@@ -31,6 +30,11 @@ Hey there! :smile: My name is Quentin Tang. I am a full stack engineer and I am 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+
+
+### Web3
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black)
+![Web3.js](https://img.shields.io/badge/web3%20js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 
 #### Editors and Operating Systems:
